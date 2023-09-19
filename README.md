@@ -12,7 +12,6 @@ The following **required** functionality is completed:
 * [ ] ...
 
 The following **extensions** are implemented:
-![proj3walkthrough](https://github.com/pascalkoj/project3/assets/104457751/5081c1f5-a996-4341-8c4f-ce5da1367310)
 
 * ...
 * none
@@ -24,6 +23,9 @@ The following **extensions** are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='![proj3walkthrough](https://github.com/pascalkoj/project3/assets/104457751/75e32578-17ac-4d92-b8ae-db0017c792a7)' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+
+![proj3walkthrough](https://github.com/pascalkoj/project3/assets/104457751/eecd8ffa-5f8d-4ef8-9712-42198783225c)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
