@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StartScreen">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            app:srcCompat="@drawable/__hated_math_1200x627" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="291dp"
+            android:orientation="horizontal">
+
+            <RadioGroup
+                android:id="@+id/radioGroupDifficulty"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:checkedButton="@id/bEasy">
+
+                <RadioButton
+                    android:id="@+id/bEasy"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Easy" />
+
+                <RadioButton
+                    android:id="@+id/bMedium"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Medium" />
+
+                <RadioButton
+                    android:id="@+id/bHard"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Hard" />
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroupOperations"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:checkedButton="@id/bAddition">
+
+                <RadioButton
+                    android:id="@+id/bAddition"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Addition" />
+
+                <RadioButton
+                    android:id="@+id/bMultiplication"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Multiplication" />
+
+                <RadioButton
+                    android:id="@+id/bDivision"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Divison" />
+
+                <RadioButton
+                    android:id="@+id/bSubtraction"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Subtraction" />
+            </RadioGroup>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Number of questions"
+            android:textAlignment="center" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="79dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/bLessQuestions"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:text="-" />
+
+            <TextView
+                android:id="@+id/textNumQuestions"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="1"
+                android:textAlignment="center" />
+
+            <Button
+                android:id="@+id/bMoreQuestions"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:text="+" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="START" />
+    </LinearLayout>
+
+</FrameLayout>
