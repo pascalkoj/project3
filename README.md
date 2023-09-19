@@ -12,11 +12,11 @@ The following **required** functionality is completed:
 * [ ] ...
 
 The following **extensions** are implemented:
+![proj3walkthrough](https://github.com/pascalkoj/project3/assets/104457751/5081c1f5-a996-4341-8c4f-ce5da1367310)
 
 * ...
 * none
 * ...
-[proj3walkthrough.gif.zip](https://github.com/pascalkoj/project3/files/12654413/proj3walkthrough.gif.zip)
 
 ## Video Walkthrough
 
