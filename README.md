@@ -22,13 +22,14 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![proj3walkthrough](https://github.com/pascalkoj/project3/assets/104457751/1f45e25c-c28d-41ea-9ce3-1883e97fd8a0)' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+<img src='![proj3walkthrough](https://github.com/pascalkoj/project3/assets/104457751/75e32578-17ac-4d92-b8ae-db0017c792a7)' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 getting used to fragments and their structure was difficult
+
 
 ## License
 
