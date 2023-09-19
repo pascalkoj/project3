@@ -16,6 +16,7 @@ The following **extensions** are implemented:
 * ...
 * none
 * ...
+[proj3walkthrough.gif.zip](https://github.com/pascalkoj/project3/files/12654413/proj3walkthrough.gif.zip)
 
 ## Video Walkthrough
 
