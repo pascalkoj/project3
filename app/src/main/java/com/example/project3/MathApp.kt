@@ -1,7 +1,11 @@
 package com.example.project3
 
+import android.content.Context
+import android.media.MediaPlayer
 import android.util.Log
+import android.widget.Toast
 import java.lang.Math.abs
+import kotlin.coroutines.coroutineContext
 import kotlin.random.Random
 
 enum class DifficultyLevel
@@ -52,6 +56,7 @@ class MathApp {
             if (answer.sameValueAs(answerNumOrNull))
             {
                 numCorrect += 1
+
             }
             operandList.removeLast() // go to next question even if we get it wrong
         }

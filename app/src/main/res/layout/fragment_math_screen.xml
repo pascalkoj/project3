@@ -51,6 +51,8 @@
                 android:text="TextView"
                 android:textSize="30sp"
                 android:textAlignment="center" />
+
+
         </LinearLayout>
 
         <com.google.android.material.textfield.TextInputLayout
