@@ -27,11 +27,21 @@ Here's a walkthrough of implemented user stories:
 ![proj3walkthrough](https://github.com/pascalkoj/project3/assets/104457751/eecd8ffa-5f8d-4ef8-9712-42198783225c)
 
 
+
+
+
+
+https://github.com/pascalkoj/project3/assets/104457751/76971a4f-94e8-46e7-9ed5-c317785ed8e0
+
+
+
+
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-getting used to fragments and their structure was difficult
+getting used to fragments and their structure was difficult also figuring out the toast and media for project 4 part 2 was difficult
 
 
 ## License
