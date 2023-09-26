@@ -33,6 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 getting used to fragments and their structure was difficult
 
+I also collaborated with Grayson Clark
+
 
 ## License
 
